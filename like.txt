@@ -1,0 +1,6 @@
+{
+	"ip":"bishr96.aternos.me",
+	"port": "42312",
+	"name": "like",
+	"auto-night-skip":"true"
+}
